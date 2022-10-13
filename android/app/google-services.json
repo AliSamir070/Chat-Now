@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884142099751",
+    "project_id": "chat-now-787c4",
+    "storage_bucket": "chat-now-787c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884142099751:android:d7de390bdbbafde9546d02",
+        "android_client_info": {
+          "package_name": "com.example.ali.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884142099751-ftp1nm282t0k64n4l0q7b2s5k9l97g1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxnCoQRZa0kUmKD9__UPnEF_WvnfnbGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884142099751-ftp1nm282t0k64n4l0q7b2s5k9l97g1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
